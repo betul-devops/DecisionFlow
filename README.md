@@ -19,9 +19,15 @@ A full-stack decision-making web application built with **Django REST Framework*
 
 Ensure Docker Desktop is running, then run:
 
-# 1. Clone the repository
+### 1. Clone the repository
+
+```bash
 git clone [https://github.com/betul-devops/DecisionFlow.git](https://github.com/betul-devops/DecisionFlow.git)
 cd DecisionFlow
+```
 
-# 2. Build and start containers
+### 2. Build and start containers
+
+```bash
 docker compose up --build
+```
